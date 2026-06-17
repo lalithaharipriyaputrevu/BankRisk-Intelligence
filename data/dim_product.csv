@@ -1,0 +1,11 @@
+product_id,product_name,product_type,category,interest_rate_base,tenure_months_max
+PROD01,Home Loan,Loan,Secured,8.5,360
+PROD02,Personal Loan,Loan,Unsecured,13.5,60
+PROD03,Auto Loan,Loan,Secured,9.5,84
+PROD04,Business Loan,Loan,Unsecured,14.0,120
+PROD05,Education Loan,Loan,Secured,10.0,120
+PROD06,Savings Account,Deposit,Liability,3.5,0
+PROD07,Fixed Deposit,Deposit,Liability,6.8,60
+PROD08,Current Account,Deposit,Liability,0.0,0
+PROD09,Recurring Deposit,Deposit,Liability,6.2,120
+PROD10,Credit Card,Card,Unsecured,36.0,0
